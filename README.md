@@ -24,4 +24,6 @@ Submit a Pull Request or create an Issue.
 ## Organizers
 
 * Derek Lindahl ([GitHub](https://github.com/dlindahl), [Twitter](https://twitter.com/oif_vet))
-* You!
+* Sam Thompson ([GitHub](https://github.com/samt), [Twitter](https://twitter.com/samdtho))
+* SacJS ([GitHub](https://github.com/sacjs), [Twitter](https://twitter.com/sac_js))
+* You! Them! Anyone!
