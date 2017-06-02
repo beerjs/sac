@@ -25,5 +25,6 @@ Submit a Pull Request or create an Issue.
 
 * Derek Lindahl ([GitHub](https://github.com/dlindahl), [Twitter](https://twitter.com/oif_vet))
 * Sam Thompson ([GitHub](https://github.com/samt), [Twitter](https://twitter.com/samdtho))
+* Mark Takata ([GitHub](https://github.com/thefatpanther), [Twitter](https://twitter.com/thefatpanther))
 * SacJS ([GitHub](https://github.com/sacjs), [Twitter](https://twitter.com/sac_js))
 * You! Them! Anyone!
